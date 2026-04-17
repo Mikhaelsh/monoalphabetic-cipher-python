@@ -1,4 +1,4 @@
-# Monoalphabetic Substitution Cipher — Problem 3.4
+# Monoalphabetic Substitution Cipher
 
 A Python implementation of the monoalphabetic substitution cipher with an interactive terminal menu. Supports encryption, decryption, three key generation methods, key validation, and letter frequency analysis.
 
