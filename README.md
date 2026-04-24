@@ -1,6 +1,6 @@
 # Monoalphabetic Substitution Cipher
 
-A Python implementation of the monoalphabetic substitution cipher with an interactive terminal menu. Supports encryption, decryption, three key generation methods, key validation, and letter frequency analysis.
+A Python implementation of a monoalphabetic substitution cipher that encrypts and decrypts text using a 26-letter key, with support for random, manual, and keyword-based key generation. It runs as an interactive terminal menu and includes a built-in frequency analysis tool that compares cipher letter distributions against standard English to aid in cryptanalysis.
 
 ---
 
