@@ -1,6 +1,6 @@
-# Monoalphabetic Substitution Cipher
+# Simplified Data Encryption Standard (S-DES)
 
-A Python implementation of a monoalphabetic substitution cipher that encrypts and decrypts text using a 26-letter key, with support for random, manual, and keyword-based key generation. It runs as an interactive terminal menu and includes a built-in frequency analysis tool that compares cipher letter distributions against standard English to aid in cryptanalysis.
+A Python implementation of the Simplified Data Encryption Standard (S-DES) based on Schaefer (1996), supporting encryption, decryption, and subkey generation on 8-bit blocks with a 10-bit key. It features both an interactive terminal menu and a CLI mode, with verbose step-by-step tracing and a built-in verification test against the assignment specification.
 
 ---
 
